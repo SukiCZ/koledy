@@ -4,6 +4,8 @@
 permalink:           pretty
 # relative_permalinks: true
 
+github:
+  repo:              https://github.com/SukiCZ/koledy/
 
 # Setup
 title:               Koledy

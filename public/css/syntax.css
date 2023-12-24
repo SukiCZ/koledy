@@ -63,3 +63,9 @@
 .css .o,
 .css .o + .nt,
 .css .nt + .nt { color: #999; }
+
+
+.octo-cat {
+  float: left;
+  margin: 0.25rem;
+}
