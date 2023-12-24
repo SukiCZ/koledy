@@ -15,16 +15,4 @@ R: Z života čistého,
 R: Z života čistého, 
    z rodu královského,
    nám, nám, narodil se.
-
-3. Člověčenství naše, veselme se,
-   ráčil Bůh vzít na se, radujme se.
-R: Z života čistého, 
-   z rodu královského,
-   nám, nám, narodil se.
-
-4. Goliáš oloupen, veselme se,
-   člověk jest vykoupen, radujme se.
-R: Z života čistého, 
-   z rodu královského,
-   nám, nám, narodil se.
 ```
