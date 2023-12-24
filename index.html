@@ -18,6 +18,7 @@ title: Home
       {{ post.content }}
     </div>
     {% endif %}
+  {% unless forloop.last %}<hr>{% endunless %}
   {% endfor %}
 </div>
 
