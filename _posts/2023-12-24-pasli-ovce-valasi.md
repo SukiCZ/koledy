@@ -10,7 +10,7 @@ title: Pásli ovce Valaši
 2. Anděl se jim ukázal, do Betléma jít kázal:
    hajdom hajdom tydlidom, hajdom haj dom tydlidom. 
 
-3. Jděte, jděte, pospěšte, Ježíška tam najdete:
+3. Běžte lidé, pospěšte, Ježíška tam najdete:
    hajdom hajdom tydlidom, hajdom haj dom tydlidom.
 
 4. On tam leží v jesličkách, zavinutý v pleničkách:
